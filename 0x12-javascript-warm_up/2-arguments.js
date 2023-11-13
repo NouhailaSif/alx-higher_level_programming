@@ -3,9 +3,10 @@
 
 const arvlength = process.argv.length
 
-if (argvlength === 2){
-	console.log("No argument");}
-else if (argvlength === 3){
-	console.log("Argument found");}
-else {
-	console.log("Argument found");}
+if (argvlength === 2) {
+	console.log('No argument');
+} else if (argvlength === 3) {
+	console.log('Argument found');
+} else {
+	console.log('Argument found');
+}
